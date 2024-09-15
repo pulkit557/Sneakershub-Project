@@ -30,6 +30,7 @@ To run this project locally, follow these steps:
 
 
 ## Outputs
+Output\Op (1).png
 !(Output/Op%20(1).png)
 !(Output/Op%20(2).png)
 !(Output/Op%20(3).png)

@@ -30,7 +30,9 @@ To run this project locally, follow these steps:
 
 
 ## Outputs
-Output\Op (1).png
-!(Output/Op%20(1).png)
-!(Output/Op%20(2).png)
-!(Output/Op%20(3).png)
+![Op (5)](https://github.com/user-attachments/assets/1dfbd3b5-1e8b-4624-9964-045bf66812cf)
+![Op (4)](https://github.com/user-attachments/assets/caf88a9e-7a98-434e-931a-d8fac31a8cfc)
+![Op (3)](https://github.com/user-attachments/assets/26754644-0672-438c-b3be-e2a61d54d4d1)
+![Op (2)](https://github.com/user-attachments/assets/25b5162b-2306-4616-94dd-883a08c5a80e)
+![Op (1)](https://github.com/user-attachments/assets/028c3850-572f-4061-86e6-bc9463be6d1c)
+
